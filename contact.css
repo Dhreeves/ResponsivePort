@@ -1,0 +1,48 @@
+.navbar {
+  background-color: rgb(8, 187, 178); 
+padding-top: 10px;
+}
+
+.container {
+background: rgb(245, 242, 220);
+margin-top: 30px;
+margin-bottom: 20px;
+}
+
+body {
+  background-image: url("paul-blenkhorn-sensoryarthouse-JdGEjfsFfWc-unsplash.jpg"); 
+}
+
+h1 {
+ padding-left: 30px;
+  color: rgb(8, 187, 178);
+}
+
+a:hover{
+  background: rgb(135, 250, 150);
+    transition: .8s;
+  }
+    
+  [class^="col"] {
+    padding: 24px;
+  }
+
+.form-group { 
+line-height: 24px;
+padding: 10px;
+margin: 20px;
+width: 100%;
+}
+
+#lastrow {
+width: 100%;
+  background-color: rgb(8, 187, 178);
+  color: black;
+  text-align: center;
+  height: 60px;
+}
+
+.row {
+  margin-left: 0;
+  width: 100%;
+}
